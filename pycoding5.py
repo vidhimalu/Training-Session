@@ -110,7 +110,7 @@ for i,j in zip(range(1,6), range(5,0,-1)):
 
 #adding key value pair to a dictionary
  my_dict = {}
- my_dict['name'] = 'Sanchita'
+ my_dict['name'] = 'Vidhi'
  my_dict['age'] = 20
  print("After adding key-value pairs:", my_dict)
 
@@ -118,7 +118,7 @@ for i,j in zip(range(1,6), range(5,0,-1)):
 #remove a key value pair 
 
  my_dict = {}
-my_dict['name'] = 'Sanchita'
+my_dict['name'] = 'Vidhi'
  my_dict['age'] = 20
  print("After adding key-value pairs:", my_dict)
 
